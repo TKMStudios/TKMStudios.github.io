@@ -9,20 +9,23 @@
   </url>
   <url>
     <loc>http://tkmgamestudios.github.io/contact.html</loc>
-    <lastmod>2017-12-14</lastmod>
+    <lastmod>2017-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tkmgamestudios.github.io/phone/contact.html"/>
   </url>
   <url>
     <loc>http://tkmgamestudios.github.io/about.html</loc>
-    <lastmod>2017-12-14</lastmod>
+    <lastmod>2017-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tkmgamestudios.github.io/phone/about.html"/>
   </url>
   <url>
     <loc>http://tkmgamestudios.github.io/games.html</loc>
-    <lastmod>2017-12-14</lastmod>
+    <lastmod>2017-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tkmgamestudios.github.io/phone/games.html"/>
   </url>
 </urlset>
