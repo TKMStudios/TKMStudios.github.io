@@ -1,44 +1,57 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tkmgamestudios.github.io" resolutions="1x" timestamp="1513346964281">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tkmgamestudios.github.io" resolutions="1x" timestamp="1513593786892">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-mallsida.css" crc="362906955" ref="tablet>about:tablet>games:tablet>index:tablet>contact"/>
+      <file name="about.css" crc="4154486951" ref="tablet>about"/>
+      <file name="games.css" crc="4154486951" ref="tablet>games"/>
+      <file name="index.css" crc="4154486951" ref="tablet>index"/>
+      <file name="contact.css" crc="4154486951" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="3884862677" seo="true" mt="1513593769490" redirect="true"/>
+    <file name="games.html" crc="429867064" seo="true" mt="1513593769490" redirect="true"/>
+    <file name="about.html" crc="41222066" seo="true" mt="1513593769490" redirect="true"/>
+    <file name="contact.html" crc="75895898" seo="true" mt="1513593769490" redirect="true"/>
+  </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3927739455" ref="phone>index"/>
-      <file name="master_a-mallsida.css" crc="3996007643" ref="phone>games:phone>index:phone>contact:phone>about"/>
-      <file name="games.css" crc="3927739455" ref="phone>games"/>
-      <file name="contact.css" crc="3927739455" ref="phone>contact"/>
-      <file name="about.css" crc="3927739455" ref="phone>about"/>
+      <file name="index.css" crc="4000692410" ref="phone>index"/>
+      <file name="master_a-mallsida.css" crc="518264469" ref="phone>games:phone>index:phone>contact:phone>about"/>
+      <file name="games.css" crc="4000692410" ref="phone>games"/>
+      <file name="contact.css" crc="4000692410" ref="phone>contact"/>
+      <file name="about.css" crc="4000692410" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="3951124477" seo="true" mt="1513346683286" redirect="true"/>
-    <file name="games.html" crc="4141366951" seo="true" mt="1513346574519" redirect="true"/>
-    <file name="about.html" crc="3808408935" seo="true" mt="1513346574519" redirect="true"/>
-    <file name="contact.html" crc="72537405" seo="true" mt="1513346574519" redirect="true"/>
+    <file name="index.html" crc="166633536" seo="true" mt="1513589631113" redirect="true"/>
+    <file name="games.html" crc="4043949270" seo="true" mt="1513589631113" redirect="true"/>
+    <file name="about.html" crc="4029880487" seo="true" mt="1513589631113" redirect="true"/>
+    <file name="contact.html" crc="131562371" seo="true" mt="1513589631113" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-mallsida.css" crc="3763111702" ref="contact:games:about:index"/>
-    <file name="contact.css" crc="302113962" ref="contact"/>
-    <file name="games.css" crc="3976583571" ref="games"/>
-    <file name="about.css" crc="226768815" ref="about"/>
-    <file name="index.css" crc="4199785993" ref="index"/>
+    <file name="contact.css" crc="27709448" ref="contact"/>
+    <file name="games.css" crc="46485940" ref="games"/>
+    <file name="about.css" crc="3794426070" ref="about"/>
+    <file name="index.css" crc="4047067315" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="museutils.js" crc="163421577" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="museconfig.js" crc="168988563" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="require.js" crc="244322403" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index"/>
-    <file name="webpro.js" crc="3848665353" ref="phone>index:phone>games:phone>about:phone>contact"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="phone>index:phone>games:phone>about:phone>contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="museutils.js" crc="163421577" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="museconfig.js" crc="168988563" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="require.js" crc="244322403" ref="index:contact:about:games:phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:tablet>index"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="phone>index:phone>games:phone>about:phone>contact:tablet>index:tablet>games:tablet>about:tablet>contact"/>
   </folder>
   <folder name="images">
-    <file name="menu button.png" crc="3885712292" ref="phone>index"/>
-    <file name="menu button close.png" crc="46306639" ref="phone>index"/>
+    <file name="menu button.png" crc="344766699" ref="phone>index:tablet>index"/>
+    <file name="menu button close.png" crc="410833373" ref="phone>index:tablet>index"/>
   </folder>
-  <file name="index.html" crc="285962729" seo="true" mt="1513342149815" redirect="true"/>
-  <file name="contact.html" crc="75480398" seo="true" mt="1513345592657" redirect="true"/>
-  <file name="about.html" crc="4195974949" seo="true" mt="1513345586307" redirect="true"/>
-  <file name="games.html" crc="226230737" seo="true" mt="1513345580325" redirect="true"/>
+  <file name="index.html" crc="411415147" seo="true" mt="1513588837475" redirect="true"/>
+  <file name="contact.html" crc="3793018560" seo="true" mt="1513588837476" redirect="true"/>
+  <file name="about.html" crc="38478827" seo="true" mt="1513588837476" redirect="true"/>
+  <file name="games.html" crc="221169457" seo="true" mt="1513588837476" redirect="true"/>
 </manifest>

@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tkmgamestudios.github.io/index.html</loc>
-    <lastmod>2017-12-15</lastmod>
+    <lastmod>2017-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tkmgamestudios.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tkmgamestudios.github.io/tablet/index.html"/>
   </url>
   <url>
     <loc>http://tkmgamestudios.github.io/contact.html</loc>
-    <lastmod>2017-12-15</lastmod>
+    <lastmod>2017-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tkmgamestudios.github.io/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tkmgamestudios.github.io/tablet/contact.html"/>
   </url>
   <url>
     <loc>http://tkmgamestudios.github.io/about.html</loc>
-    <lastmod>2017-12-15</lastmod>
+    <lastmod>2017-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tkmgamestudios.github.io/phone/about.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tkmgamestudios.github.io/tablet/about.html"/>
   </url>
   <url>
     <loc>http://tkmgamestudios.github.io/games.html</loc>
-    <lastmod>2017-12-15</lastmod>
+    <lastmod>2017-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tkmgamestudios.github.io/phone/games.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tkmgamestudios.github.io/tablet/games.html"/>
   </url>
 </urlset>
